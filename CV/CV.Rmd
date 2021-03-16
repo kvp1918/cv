@@ -1,9 +1,8 @@
 ---
-name: Kathryn
+name: Kathryn L.
 surname: Van Pelt
 position: "Post-Doctoral Scholar"
 address: "Sanders-Brown Center on Aging | University of Kentucky"
-phone: +1 22 3333 4444
 www: kvanpelt.com
 email: "kloc223@uky.edu"
 twitter: oconnor_kl
@@ -69,7 +68,7 @@ tribble(
   * ORCID: 0000-0002-5494-2357
 
 ## In Preparation
-1.	**Van Pelt KL**, Lin A, Koehl L, Caban-Holt A, Anderson-Mooney A, Powell D, Head E, Schmitt F. (Under Review). Longitudinal Assessment of 1H-MRS Metabolites in Adults with Down Syndrome: age and dementia effects. NeuroImage: Clinical.
+1.	**Van Pelt KL**, Lin A, Koehl L, Caban-Holt A, Anderson-Mooney A, Powell D, Head E, Schmitt F. (In Preparation). Longitudinal Assessment of 1H-MRS Metabolites in Adults with Down Syndrome: age and dementia effects. 
 
 2.	Carmona-Iragui M, Alcolea D, Barroeta I, Videla L, **Van Pelt KL**, Schmitt F, Lightner D, Koehl L, Sacco S, Mircher C, Pape S, Nübling G, Levin J, Zaman S, Strydom A, Rebillat A, Head E, Blesa R, Lleó A, Fortea J. (In Preparation). Prognostic performance and longitudinal changes in plasma Neurofilament light levels in Down syndrome: a multicenter longitudinal study.
 
@@ -83,75 +82,77 @@ tribble(
 
 7.	DiProspero DN, Keator DB, Phelan M, van Erp TGM, Doran E, Powell DK, **Van Pelt KL**, Schmitt F, Head E, Lott IT, Yassa MA. (In Preparation). Selective impairment of long-range default mode network functional connectivity as a biomarker for preclinical Alzheimer’s disease in older individuals with Down syndrome.
 
-8.	Memmini AK, **Van Pelt KL**, Wicklund AH, Breedlove KM, Broglio SP. (Under Review). Influence of adult and child-specific modifiers on youth contact sports participation. 
+8.	Memmini AK, **Van Pelt KL**, Wicklund AH, Breedlove KM, Broglio SP. (Under Review). Influence of adult and child-specific modifiers on youth contact sports participation. J Athl Train
 
 
 ## Refereed Journal Publications
 Complete List of Published Work in My Bibliography: https://www.ncbi.nlm.nih.gov/myncbi/browse/collection/46831018/
 
-1.	**Van Pelt KL**, Caccese JB, Eckner JT, Putukian M, Brooks MA, Cameron KL, Houston MN, Jackson JC, McGinty GT, Hillis CJ, McAllister T, McCrea MA, Broglio SP, Buckley TA. (Accepted, 2021). Detailed Description of Division I Ice Hockey Concussions: Findings form the NCAA and Department of Defense CARE Consortium. Journal of Sport and Health Science. DOI: 10.1016/j.jshs.2021.01.004
+1.	**Van Pelt KL**, Caccese JB, Eckner JT, Putukian M, Brooks MA, Cameron KL, Houston MN, Jackson JC, McGinty GT, Hillis CJ, McAllister T, McCrea MA, Broglio SP, Buckley TA. (In Press, 2021). Detailed Description of Division I Ice Hockey Concussions: Findings form the NCAA and Department of Defense CARE Consortium. Journal of Sport and Health Science. doi: 10.1016/j.jshs.2021.01.004
 
-1.	**Van Pelt KL**, Puetz T, Swallow J, Lapointe AP, Broglio SP. (Accepted, 2020). A Systematic-Review and Meta-Analysis of Concussion Rates: A Data-Driven Concussion Risk Classification. Sports Medicine.
+1.	**Van Pelt KL**, Puetz T, Swallow J, Lapointe AP, Broglio SP. (In Press, 2021). A Systematic-Review and Meta-Analysis of Concussion Rates: A Data-Driven Concussion Risk Classification. Sports Medicine. doi: 10.1007/s40279-021-01428-7
 
-1.	Liebel SW, **Van Pelt KL**, Garcia GP, Czerniak LL, Lavieri MS, McCrea MA, McAllister T, Broglio SP. (Accepted, 2020). The Relationships Between Sports-Related Concussion and Sensation Seeking. International Journal of Molecular Sciences.
+1.	Liebel SW, **Van Pelt KL**, Garcia GP, Czerniak LL, Lavieri MS, McCrea MA, McAllister T, Broglio SP. (Accepted, 2020). The Relationships Between Sports-Related Concussion and Sensation Seeking. Int J Mol Sci. 2020 Nov 30;21(23). doi: 10.3390/ijms21239097.
 
-1.	Thalman SW, **Van Pelt KL**, Lin A, Johnson NF, Andersen A, McCarty K, Davis R, Jicha G, Caban-Holt A, Robertson W, Lightner D, Powell D, Head E, Schmitt F. (2020). A Preliminary Study of Cerebral Blood Flow, Aging and Dementia in People with Down Syndrome. Journal of Intellectual Disability Research, 62(12), 934-945. doi: 10.111/jir.12784
+1.	Thalman SW, **Van Pelt KL**, Lin A, Johnson NF, Andersen A, McCarty K, Davis R, Jicha G, Caban-Holt A, Robertson W, Lightner D, Powell D, Head E, Schmitt F. (2020). A Preliminary Study of Cerebral Blood Flow, Aging and Dementia in People with Down Syndrome. J Intellect Disabil Res. 2020 Dec;64(12):934-945. doi: 10.1111/jir.12784
 
-1.	**Van Pelt KL**, Koehl L, Caban-Holt A, Anderson-Mooney A, Head E, Schmitt FA. (2020). Feasibility of Dual-Task Gait to Estimate Alzheimer’s Related Cognitive Decline in Down Syndrome. Alzheimer’s & Dementia: Diagnosis, Assessment & Disease Monitoring, 12(1):e12092. doi: 10.1002/dad2.12092.
+1.	**Van Pelt KL**, Koehl L, Caban-Holt A, Anderson-Mooney A, Head E, Schmitt FA. (2020). Feasibility of Dual-Task Gait to Estimate Alzheimer’s Related Cognitive Decline in Down Syndrome. Alzheimers Dement (Amst). 2020;12(1):e12092. doi: 10.1002/dad2.12092. eCollection 2020
 
 1.	Koehl LM, **Van Pelt KL**, Harp JP, Head E, Schmitt FA. (Accepted, 2020). Longitudinal Changes in Concurrent Dementia and Down Syndrome. Alzheimer’s & Dementia: Diagnosis, Assessment & Disease Monitoring.
 
-1.	Van Pelt D, Vechetti I, Lawrence M, **Van Pelt KL**, Patel P, Miller B, Butterfield T, Dupont-Versteegden. (2020). Serum extracellular vesicle miR-203a-3p content is associated with skeletal muscle mass and protein turnover during disuse atrophy and regrowth. American Journal of Physiology-Cell Physiology, 319(2):C419-C431. doi: 10.1152/ajpcell.00223.2020.
+1.	Van Pelt D, Vechetti I, Lawrence M, **Van Pelt KL**, Patel P, Miller B, Butterfield T, Dupont-Versteegden. (2020). Serum extracellular vesicle miR-203a-3p content is associated with skeletal muscle mass and protein turnover during disuse atrophy and regrowth. Am J Physiol Cell Physiol. 2020 Aug 1;319(2):C419-C431. doi: 10.1152/ajpcell.00223.2020.
 
 1.	Houston M, **Van Pelt KL**, D’Lauro C, Brodeur R, Campbell D, McGinty G, Jackson J, Kelly T, Peck K, Svoboda S, McAllister T, McCrea M, Broglio S, Cameron K. (2020). Test-Retest Reliability of Concussion Baseline Assessments in United States Service Academy Cadets: A Report from the NCAA-DoD CARE Consortium. Journal of the International Neuropsychology Society. doi: 10.1017/S1355617720000594.
 
-1.	**Van Pelt KL**, Cameron KL, Campbell DE, D’Lauro CJ, He X, Houston MN, Jackson JC, Johnson BR, McGinty G, Meehan S, O’Donnell PG, Pasquina P, Peck KY, Svoboda SJ, McAllister T, McCrea M, Broglio SP. (2020). Concussion recovery trajectories among United States Service Academy Members. Journal of Athletic Training, 55(7), 658-665. doi: 10.4085/1062-6050-10-19.
+1.	**Van Pelt KL**, Cameron KL, Campbell DE, D’Lauro CJ, He X, Houston MN, Jackson JC, Johnson BR, McGinty G, Meehan S, O’Donnell PG, Pasquina P, Peck KY, Svoboda SJ, McAllister T, McCrea M, Broglio SP. (2020). Concussion recovery trajectories among United States Service Academy Members. J Athl Train. 2020 Jul 1;55(7):658-665. doi: 10.4085/1062-6050-10-19
 
-1.	**Van Pelt KL**, Cameron KL, Campbell DE, D’Lauro CJ, He X, Houston MN, Jackson JC, Johnson BR, McGinty G, Meehan S, O’Donnell PG, Pasquina P, Peck KY, Svoboda SJ, McAllister T, McCrea M, Broglio SP. (2019). A cohort study to identify and evaluate concussion risk factors across multiple injury settings: findings from the CARE Consortium. Injury Epidemiology, 6(1), 1. doi: 10.1186/s40621-018-0178-3.
+1.	**Van Pelt KL**, Cameron KL, Campbell DE, D’Lauro CJ, He X, Houston MN, Jackson JC, Johnson BR, McGinty G, Meehan S, O’Donnell PG, Pasquina P, Peck KY, Svoboda SJ, McAllister T, McCrea M, Broglio SP. (2019). A cohort study to identify and evaluate concussion risk factors across multiple injury settings: findings from the CARE Consortium. Inj Epidemiol. 2019 Jan 14;6(1):1. doi: 10.1186/s40621-018-0178-3
 
-1.	Buckley TA, Bryk KN, **Van Pelt KL**, Broglio SP, East SA, Zuckerman SL, Kuhn AW. (2019). Concussion and National Hockey League Player Performance: An Advanced Hockey Metrics Analysis. Journal of Athletic Training, 54(5): 527-533. doi: 10.4085/1062-6050-200-18.
+1.	Buckley TA, Bryk KN, **Van Pelt KL**, Broglio SP, East SA, Zuckerman SL, Kuhn AW. (2019). Concussion and National Hockey League Player Performance: An Advanced Hockey Metrics Analysis. J Athl Train. 2019 May;54(5):527-533. doi: 10.4085/1062-6050-200-18
 
-1.	**Van Pelt KL**, Lapointe A, Galdys M, Dougherty L, Buckley TA, Broglio SP. (2019). Evaluating Performance of National Hockey League Players After a Concussion Versus Lower Body Injury. Journal of Athletic Training, 54(5): 534-540. doi: 10.4085/1062-6050-218-18.
+1.	**Van Pelt KL**, Lapointe A, Galdys M, Dougherty L, Buckley TA, Broglio SP. (2019). Evaluating Performance of National Hockey League Players After a Concussion Versus Lower Body Injury. J Athl Train. 2019 May;54(5):534-540. doi: 10.4085/1062-6050-218-18
 
-1.	Zafar SF, Postma EN, Biswal S, Boyle EJ, Bechek S, **O’Connor K**, Shenoy A, Kim J, Shafi MS, Patel AB, Rosenthal ES, Westover MB. (2018). Effect of Epileptiform Abnormality Burden on Neurologic Outcome and Antiepileptic Drug Management After Subarachnoid Hemorrhage. Clinical Neurophysiology, 129(11), 2219-2227. doi: 10.1016/j.clinph.2018.08.015.
+1. **O'Connor KL**. Concussion among military service academy members: identifying risk factors, recovery trajectories, and the role of mental health. Br J Sports Med. 2019 Mar;53(6):368-369. doi: 10.1136/bjsports-2018-099543
 
-1.	Rosenthal ES, Biswal S, Zafar SF, **O’Connor KL**, Bechek S, Shenoy AR, Boyle EJ, Shafi MM, Gilmore EJ, Foreman BP, Gaspard N, Leslie-Mazwi TM, Rosand J, Hoch DB, Cash S, Cole AJ, Patel AB, Westover MB. (2018). Continuous Electroencephalography for Predicting Delayed Cerebral Ischemia after Subarachnoid Hemorrhage: A Prospective Study of Diagnostic Accuracy. Annals of Neurology, 83(5), 958-969. doi: 10.1002/ana.25232.
+1.	Zafar SF, Postma EN, Biswal S, Boyle EJ, Bechek S, **O’Connor K**, Shenoy A, Kim J, Shafi MS, Patel AB, Rosenthal ES, Westover MB. (2018). Effect of Epileptiform Abnormality Burden on Neurologic Outcome and Antiepileptic Drug Management After Subarachnoid Hemorrhage. Clin Neurophysiol. 2018 Nov;129(11):2219-2227. doi: 10.1016/j.clinph.2018.08.015
 
-1.	Eckner JT, **O’Connor KL**, Broglio SP, Kutcher JS, Ashton-Miller JA. (2018). Comparison of Head Impact Exposure Between Male and Female High School Ice Hockey Athletes. American Journal of Sports Medicine, 46(9), 2253-2262. doi: 10.1177/0363546518777244.
+1.	Rosenthal ES, Biswal S, Zafar SF, **O’Connor KL**, Bechek S, Shenoy AR, Boyle EJ, Shafi MM, Gilmore EJ, Foreman BP, Gaspard N, Leslie-Mazwi TM, Rosand J, Hoch DB, Cash S, Cole AJ, Patel AB, Westover MB. (2018). Continuous Electroencephalography for Predicting Delayed Cerebral Ischemia after Subarachnoid Hemorrhage: A Prospective Study of Diagnostic Accuracy. Ann Neurol. 2018 May;83(5):958-969. doi: 10.1002/ana.25232
 
-1.	**O’Connor KL**, Allred CD, Cameron KL, Campbell DE, D’Lauro CJ, Houston MN, Johnson BR, Kelly T, McGinty G, O’Donnell PG, Peck KY, Svoboda SJ, Pasquina P, McAllister T, McCrea M, Broglio SP. (2018). Descriptive Analysis of a Baseline Concussion Battery Among U.S. Service Academy Members: Results from the Concussion Assessment, Research, and Education (CARE) Consortium. Military Medicine, 183(11-12), e580-e590. doi: 10.1093/milmed/usx130.
+1.	Eckner JT, **O’Connor KL**, Broglio SP, Kutcher JS, Ashton-Miller JA. (2018). Comparison of Head Impact Exposure Between Male and Female High School Ice Hockey Athletes. Am J Sports Med. 2018 Jul;46(9):2253-2262. doi: 10.1177/0363546518777244
 
-1.	Zafar SF, Postma EN, Biswal S, Fleuren L, Boyle EJ, Bechek S, **O’Connor KL**, Shenoy A, Jonnalahadda D, Kim J, Shafi MS, Patel AB, Rosenthal ES, Westover MB. (2017). Electronic Health Data Predict Outcomes after Subarachnoid Hemorrhage. Neurocritical Care, 28(2), 184-193. doi: 10.1007/s12028-017-0466-8.
+1.	**O’Connor KL**, Allred CD, Cameron KL, Campbell DE, D’Lauro CJ, Houston MN, Johnson BR, Kelly T, McGinty G, O’Donnell PG, Peck KY, Svoboda SJ, Pasquina P, McAllister T, McCrea M, Broglio SP. (2018). Descriptive Analysis of a Baseline Concussion Battery Among U.S. Service Academy Members: Results from the Concussion Assessment, Research, and Education (CARE) Consortium. Mil Med. 2018 Nov 1;183(11-12):e580-e590. doi: 10.1093/milmed/usx130
 
-1.	Edlow BE, Chatelle C, Spencer CA, Chu CJ, Bodien YG, **O’Connor KL**, Hirschberg RE, Hochberg LR, Giacino JT, Rosenthal ES, Wu O. (2017). Early detection of consciousness in ICU patients with severe traumatic brain injury. Brain, 140(9), 2399-2414. doi: 10.1093/brain/awx176.
+1.	Zafar SF, Postma EN, Biswal S, Fleuren L, Boyle EJ, Bechek S, **O’Connor KL**, Shenoy A, Jonnalahadda D, Kim J, Shafi MS, Patel AB, Rosenthal ES, Westover MB. (2017). Electronic Health Data Predict Outcomes after Subarachnoid Hemorrhage. Neurocrit Care. 2018 Apr;28(2):184-193. doi: 10.1007/s12028-017-0466-8
 
-1.	**O’Connor KL**, Peeters T, Szymanski S & Broglio SP. (2017). Individual Impact Magnitude vs. Cumulative Magnitude for Estimating Concussion Odds. Annals of Biomedical Engineering; 45(8), 1958-1992. doi: 10.1007/s10439-017-1843-3.
+1.	Edlow BE, Chatelle C, Spencer CA, Chu CJ, Bodien YG, **O’Connor KL**, Hirschberg RE, Hochberg LR, Giacino JT, Rosenthal ES, Wu O. (2017). Early detection of consciousness in ICU patients with severe traumatic brain injury. Brain. 2017 Sep 1;140(9):2399-2414. doi: 10.1093/brain/awx176
 
-1.	Kim JA, Rosenthal ES, Biswal S, Shenoy AV, **O’Connor KL**, Bechek SC, Valdery Moura J, Shafi MM, Patel AB, Cash SS, Westover M. (2017). Epileptiform Abnormalities Predict Delayed Cerebral Ischemia in Subarachnoid Hemorrhage. Clinical Neurophysiology, 128(6), 1091-1099. doi: 10.1016/j.clinph.2017.01.016.
+1.	**O’Connor KL**, Peeters T, Szymanski S & Broglio SP. (2017). Individual Impact Magnitude vs. Cumulative Magnitude for Estimating Concussion Odds. Ann Biomed Eng. 2017 Aug;45(8):1985-1992. doi: 10.1007/s10439-017-1843-3
 
-1.	Brolgio SP, Lapointe A, **O’Connor KL**, & McCrea M. (2017). Head impact density: A model for the elusive concussion threshold. Journal of NeuroTrauma, 34, 1-8. doi: 10.1089/neu.2016.4767.
+1.	Kim JA, Rosenthal ES, Biswal S, Shenoy AV, **O’Connor KL**, Bechek SC, Valdery Moura J, Shafi MM, Patel AB, Cash SS, Westover M. (2017). Epileptiform Abnormalities Predict Delayed Cerebral Ischemia in Subarachnoid Hemorrhage. Clin Neurophysiol. 2017 Jun;128(6):1091-1099. doi: 10.1016/j.clinph.2017.01.016
 
-1.	**O’Connor KL**, Baker, MM, Dalton, SL, Dompier, TP, Broglio, SP, & Kerr, ZY. (2017). Epidemiology of Sport-Related Concussions in High School Athletes: National Athletic Treatment, Injury and Outcomes Network, 2011/12-2013/14. Journal of Athletic Training, 52(3), 175-185. doi: 10.4085/1062-6050-52.1.15.
+1.	Brolgio SP, Lapointe A, **O’Connor KL**, & McCrea M. (2017). Head impact density: A model for the elusive concussion threshold. J Neurotrauma. 2017 Oct 1;34(19):2675-2683. doi: 10.1089/neu.2016.4767
 
-1.	**O’Connor KL**, Rowson S, Duma SM, & Broglio SP. (2017). Head-Impact-Measurement Devices: A Systematic Review. Journal of Athletic Training, 52(3), 206-227. doi: 10.4085/1062-6050.52.2.05
+1.	**O’Connor KL**, Baker, MM, Dalton, SL, Dompier, TP, Broglio, SP, & Kerr, ZY. (2017). Epidemiology of Sport-Related Concussions in High School Athletes: National Athletic Treatment, Injury and Outcomes Network (NATION), 2011-2012 Through 2013-2014. J Athl Train. 2017 Mar;52(3):175-185. doi: 10.4085/1062-6050-52.1.15
 
-1.	Broglio SP, Williams RM, **O’Connor KL**, & Goldstick J, (2016 Football Players' Head-Impact Exposure After Limiting of Full-Contact Practices. Journal of Athletic Training, 51(7), 511-518. doi: 10.4085/1062-6050-51.7.04.
+1.	**O’Connor KL**, Rowson S, Duma SM, & Broglio SP. (2017). Head-Impact-Measurement Devices: A Systematic Review. J Athl Train. 2017 Mar;52(3):206-227. doi: 10.4085/1062-6050.52.2.05
 
-1.	Wickering E, Gaspard N, Zafar S, Maura VJ, Biswal S, Bechek S, **O’Connor KL**, Rosenthal ES, & Westover MB. (2016). Automation of Classical QEEG Trending Methods for Early Detection of Delayed Cerebral Ischemia: More Work to Do. Journal of Clinical Neurophysiology, 33(3), 227-234. doi: 10.1097/WNP.0000000000000278.
+1.	Broglio SP, Williams RM, **O’Connor KL**, & Goldstick J, (2016 Football Players' Head-Impact Exposure After Limiting of Full-Contact Practices. J Athl Train. 2016 Jul;51(7):511-8. doi: 10.4085/1062-6050-51.7.04
 
-1.	Muniz CF, Shenoy AV, **O’Connor KL**, Bechek SC, Boyle EJ, Guanci M, Tehan TM, Zafar SF, Cole AJ, Patel AB, Westover MB, & Rosenthal ES. (2016). Clinical development and implementation of an institutional guideline for prospective EEG monitoring and reporting of delayed cerebral ischemia. Journal of Clinical Neurophysiology, 33(3), 217-226. doi: 10.1097/WNP.0000000000000281.
+1.	Wickering E, Gaspard N, Zafar S, Maura VJ, Biswal S, Bechek S, **O’Connor KL**, Rosenthal ES, & Westover MB. (2016). Automation of Classical QEEG Trending Methods for Early Detection of Delayed Cerebral Ischemia: More Work to Do. J Clin Neurophysiol. 2016 Jun;33(3):227-34. doi: 10.1097/WNP.0000000000000278
 
-1.	Zafar SF, Westover MB, Gaspard N, Gilmore EJ, Foreman BP, **O'Connor KL**, & Rosenthal ES. (2016). Inter-rater agreement for consensus definitions of delayed ischemic events following aneurysmal subarachnoid hemorrhage. Journal of Clinical Neurophysiology, 33(3), 235-240. doi: 10.1097/WNP.0000000000000276.
+1.	Muniz CF, Shenoy AV, **O’Connor KL**, Bechek SC, Boyle EJ, Guanci M, Tehan TM, Zafar SF, Cole AJ, Patel AB, Westover MB, & Rosenthal ES. (2016). Clinical development and implementation of an institutional guideline for prospective EEG monitoring and reporting of delayed cerebral ischemia. J Clin Neurophysiol. 2016 Jun;33(3):217-26. doi: 10.1097/WNP.0000000000000281
 
-1.	Williams RM, Dowling M & **O’Connor, KL**. (2016) Head impact measurement devices: A literature review. Sports Health, 8(3), 270-273. doi: 10.1177/1941738116641912.
+1.	Zafar SF, Westover MB, Gaspard N, Gilmore EJ, Foreman BP, **O'Connor KL**, & Rosenthal ES. (2016). Inter-rater agreement for consensus definitions of delayed ischemic events following aneurysmal subarachnoid hemorrhage. J Clin Neurophysiol. 2016 Jun;33(3):235-40. doi: 10.1097/WNP.0000000000000276
 
-1.	**O’Connor, KL**, Westover, MB, Mouhsin, MS, Iftimia, N. & Rosenthal, ES. (2014). High Risk for Seizures Following Subarachnoid Hemorrhage Regardless of Referral Bias. Neurocritical Care, 21(3), 467-482. doi: 10.1007/s12028-014-9974-y.
+1.	Williams RM, Dowling M & **O’Connor, KL**. (2016) Head impact measurement devices: A literature review. Sports Health. 2016 May/Jun;8(3):270-273. doi: 10.1177/1941738116641912
+
+1.	**O’Connor, KL**, Westover, MB, Mouhsin, MS, Iftimia, N. & Rosenthal, ES. (2014). High Risk for Seizures Following Subarachnoid Hemorrhage Regardless of Referral Bias. Neurocrit Care. 2014 Dec;21(3):476-82. doi: 10.1007/s12028-014-9974-y
 
 1.	**O’Connor, K**, Kline, A, Sawh, L, Rodrigues, S, Fisher, W, Kane, V, Kuhn, J, Ellison, M. & Smelson, D. (2013). Unemployment and Co-occurring Disorders Among Homeless Veterans. Journal of Dual Diagnosis, 9(2), 134-138.
 
 1.	Smelson, D., Kline, A., Kuhn, J., **O’Connor, K.**, Rodrigues, S., Fisher, W., Sawh, L. & Kane, V. (2013). Utility of a Wraparound Engagement Intervention for Homeless Veterans with Co-occurring Disorders. Psychological Services, 10(2), 161-167.
 
-1.	Kalman, D., Herz, L., Monti, P., Kahler, C. W., Mooney, M., Rodrigues, S., & **O'Connor, K**. (2011). Incremental efficacy of adding bupropion to the nicotine patch for smoking cessation in smokers with a recent history of alcohol dependence: Results from a randomized, double-blind, placebo-controlled study. Drug and Alcohol Dependence, 118(2-3), 111-118.
+1.	Kalman, D., Herz, L., Monti, P., Kahler, C. W., Mooney, M., Rodrigues, S., & **O'Connor, K**. (2011). Incremental efficacy of adding bupropion to the nicotine patch for smoking cessation in smokers with a recent history of alcohol dependence: Results from a randomized, double-blind, placebo-controlled study. Drug Alcohol Depend. 2011 Nov 1;118(2-3):111-8. doi: 10.1016/j.drugalcdep.2011.03.005
 
 
 

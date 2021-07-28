@@ -40,7 +40,8 @@ tribble(
 library(tibble)
 tribble(
   ~ Position, ~ Year, ~ Institution, ~ Where,
-  "Post-Doctoral Fellow", "2018-Present", "University of Kentucky, Sanders-Brown Center on Aging", 
+  "CEO", "2021-Present", "Synaptek, LLC", "Lexington, KY, USA",
+  "Post-Doctoral Fellow", "2018-2021", "University of Kentucky, Sanders-Brown Center on Aging", 
   "Lexington, KY, USA",
   "PhD Student and Graduate Research Assistant", "2014-2018", 
   "University of Michigan, NeuroTrauma Research Laboratory", "Ann Arbor, MI, USA",
@@ -68,11 +69,7 @@ tribble(
   * ORCID: 0000-0002-5494-2357
 
 ## In Preparation
-1.	**Van Pelt KL**, Lin A, Koehl L, Caban-Holt A, Anderson-Mooney A, Powell D, Head E, Schmitt F. (Under Review). Longitudinal Assessment of 1H-MRS Metabolites in Adults with Down Syndrome: age and dementia effects. Neurobiology of Aging.
-
 1.	**Van Pelt KL**, Wolff L, Campbell DE, McGinty G, Zupan M, Jackson JC. (Under Review). A preliminary exploration of the impact of aerobic and muscular fitness on mild traumatic brain injury among service academy members at the United States Air Force Academy. Military Medicine.
-
-1.	Memmini AK, **Van Pelt KL**, Wicklund AH, Breedlove KM, Broglio SP. (Under Review). Influence of adult and child-specific modifiers on youth contact sports participation. J Athl Train
 
 1.	**Van Pelt KL**, Ross B, Dowling M, Pradhan AK, Broglio SP. (In Preparation). Subtle persistent effects of concussion on driving. 
 
@@ -84,11 +81,13 @@ tribble(
 ## Refereed Journal Publications
 Complete List of Published Work in My Bibliography: https://www.ncbi.nlm.nih.gov/myncbi/browse/collection/46831018/
 
-1. Carmona-Iragui M, Alcolea D, Barroeta I, Videla L, **Van Pelt KL**, Schmitt F, Lightner D, Koehl L, Sacco S, Mircher C, Pape S, Nübling G, Levin J, Zaman S, Strydom A, Rebillat A, Head E, Blesa R, Lleó A, Fortea J. (Accepted, 2021). Prognostic performance and longitudinal changes in plasma Neurofilament light levels in Down syndrome: a multicenter longitudinal study. Lancet Neurology.
+1.	Memmini AK, **Van Pelt KL**, Wicklund AH, Breedlove KM, Broglio SP. (Accepted, 2021). Influence of adult and child-specific modifiers on youth contact sports participation. J Athl Train. 2021 Jul 19. doi: 10.4085/1062-6050-0125.21. PMID: 34279635.
 
-1.	**Van Pelt KL**, Caccese JB, Eckner JT, Putukian M, Brooks MA, Cameron KL, Houston MN, Jackson JC, McGinty GT, Hillis CJ, McAllister T, McCrea MA, Broglio SP, Buckley TA. (In Press, 2021). Detailed Description of Division I Ice Hockey Concussions: Findings form the NCAA and Department of Defense CARE Consortium. Journal of Sport and Health Science. doi: 10.1016/j.jshs.2021.01.004
+1. Carmona-Iragui M, Alcolea D, Barroeta I, Videla L, **Van Pelt KL**, Schmitt F, Lightner D, Koehl L, Sacco S, Mircher C, Pape S, Nübling G, Levin J, Zaman S, Strydom A, Rebillat A, Head E, Blesa R, Lleó A, Fortea J. (2021). Prognostic performance and longitudinal changes in plasma Neurofilament light levels in Down syndrome: a multicenter longitudinal study. Lancet Neurol. 2021 Aug;20(8):605-614. doi: 10.1016/S1474-4422(21)00129-0. PMID: 34302785.
 
-1.	**Van Pelt KL**, Puetz T, Swallow J, Lapointe AP, Broglio SP. (In Press, 2021). A Systematic-Review and Meta-Analysis of Concussion Rates: A Data-Driven Concussion Risk Classification. Sports Medicine. doi: 10.1007/s40279-021-01428-7
+1.	**Van Pelt KL**, Caccese JB, Eckner JT, Putukian M, Brooks MA, Cameron KL, Houston MN, Jackson JC, McGinty GT, Hillis CJ, McAllister T, McCrea MA, Broglio SP, Buckley TA. (2021). Detailed Description of Division I Ice Hockey Concussions: Findings form the NCAA and Department of Defense CARE Consortium. J Sport Health Sci. 10(2):162-171. doi: 10.1016/j.jshs.2021.01.004. Epub 2021 Jan 14. PMID: 33453430; PMCID: PMC7987562.
+
+1.	**Van Pelt KL**, Puetz T, Swallow J, Lapointe AP, Broglio SP. (2021). A Systematic-Review and Meta-Analysis of Concussion Rates: A Data-Driven Concussion Risk Classification. Sports Med. 2021 Jun;51(6):1227-1244. doi: 10.1007/s40279-021-01428-7. Epub 2021 Mar 15. PMID: 33721284.
 
 1.	Liebel SW, **Van Pelt KL**, Garcia GP, Czerniak LL, Lavieri MS, McCrea MA, McAllister T, Broglio SP. (Accepted, 2020). The Relationships Between Sports-Related Concussion and Sensation Seeking. Int J Mol Sci. 2020 Nov 30;21(23). doi: 10.3390/ijms21239097.
 

@@ -1,10 +1,10 @@
 ---
 name: Kathryn L.
 surname: Van Pelt
-position: "Post-Doctoral Scholar"
-address: "Sanders-Brown Center on Aging | University of Kentucky"
-www: kvanpelt.com
-email: "kloc223@uky.edu"
+position: "CEO"
+address: "Synaptek"
+www: www.synaptek.io
+email: "kate.vanpelt@synaptek.io"
 twitter: oconnor_kl
 github: kvp1918
 date: "`r format(Sys.time(), '%B %Y')`"

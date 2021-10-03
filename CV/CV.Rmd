@@ -71,8 +71,6 @@ tribble(
 ## In Preparation
 1.	**Van Pelt KL**, Wolff L, Campbell DE, McGinty G, Zupan M, Jackson JC. (Under Review). A preliminary exploration of the impact of aerobic and muscular fitness on mild traumatic brain injury among service academy members at the United States Air Force Academy. Military Medicine.
 
-1.	**Van Pelt KL**, Ross B, Dowling M, Pradhan AK, Broglio SP. (In Preparation). Subtle persistent effects of concussion on driving. 
-
 1.	**Van Pelt KL**, McCarty K, Davis R, Lykins J, Jicha G, Caban-Holt A, Lightner D, Robertson W, Brothers S, Thalman SW, Lin A, Powell D, Head E, Schmitt F. (In Preparation). Regional and Longitudinal Changes in Cerebral Blood Flow in Individuals with Down Syndrome.
 
 1.	DiProspero DN, Keator DB, Phelan M, van Erp TGM, Doran E, Powell DK, **Van Pelt KL**, Schmitt F, Head E, Lott IT, Yassa MA. (In Preparation). Selective impairment of long-range default mode network functional connectivity as a biomarker for preclinical Alzheimer’s disease in older individuals with Down syndrome.
@@ -81,7 +79,9 @@ tribble(
 ## Refereed Journal Publications
 Complete List of Published Work in My Bibliography: https://www.ncbi.nlm.nih.gov/myncbi/browse/collection/46831018/
 
-1.	Memmini AK, **Van Pelt KL**, Wicklund AH, Breedlove KM, Broglio SP. (Accepted, 2021). Influence of adult and child-specific modifiers on youth contact sports participation. J Athl Train. 2021 Jul 19. doi: 10.4085/1062-6050-0125.21. PMID: 34279635.
+1. Harp JP, Koehl LM, **Van Pelt KL**, Hom CL, Doran E, Head E, Lott IT, Schmitt FA. Cognitive and Behavioral Domains That Reliably Differentiate Normal Aging and Dementia in Down Syndrome. Brain Sci. 2021 Aug 25;11(9):1128. doi: 10.3390/brainsci11091128. PMID: 34573150; PMCID: PMC8468129.
+
+1.	Memmini AK, **Van Pelt KL**, Wicklund AH, Breedlove KM, Broglio SP. Evaluating adult decision-making modifiers in support of youth contact sports participation. J Athl Train. 2021 Jul 19. doi: 10.4085/1062-6050-0125.21. Epub ahead of print. PMID: 34279635.
 
 1. Carmona-Iragui M, Alcolea D, Barroeta I, Videla L, **Van Pelt KL**, Schmitt F, Lightner D, Koehl L, Sacco S, Mircher C, Pape S, Nübling G, Levin J, Zaman S, Strydom A, Rebillat A, Head E, Blesa R, Lleó A, Fortea J. (2021). Prognostic performance and longitudinal changes in plasma Neurofilament light levels in Down syndrome: a multicenter longitudinal study. Lancet Neurol. 2021 Aug;20(8):605-614. doi: 10.1016/S1474-4422(21)00129-0. PMID: 34302785.
 

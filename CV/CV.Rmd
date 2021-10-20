@@ -1,10 +1,10 @@
 ---
 name: Kathryn L.
 surname: Van Pelt
-position: "CEO"
-address: "Synaptek"
-www: www.synaptek.io
-email: "kate.vanpelt@synaptek.io"
+position: "CEO | Consultant"
+address: "Synaptek | KVP Consulting"
+www: www.synaptek.io | www.kvanpelt.com
+email: "kate.vanpelt@synaptek.io | vanpelt.kathryn@gmail.com"
 twitter: oconnor_kl
 github: kvp1918
 date: "`r format(Sys.time(), '%B %Y')`"
@@ -41,6 +41,7 @@ library(tibble)
 tribble(
   ~ Position, ~ Year, ~ Institution, ~ Where,
   "CEO", "2021-Present", "Synaptek, LLC", "Lexington, KY, USA",
+  "", "2021-Present", "KVP Consulting", "Lexington, KY, USA",
   "Post-Doctoral Fellow", "2018-2021", "University of Kentucky, Sanders-Brown Center on Aging", 
   "Lexington, KY, USA",
   "PhD Student and Graduate Research Assistant", "2014-2018", 
@@ -69,7 +70,6 @@ tribble(
   * ORCID: 0000-0002-5494-2357
 
 ## In Preparation
-1.	**Van Pelt KL**, Wolff L, Campbell DE, McGinty G, Zupan M, Jackson JC. (Under Review). A preliminary exploration of the impact of aerobic and muscular fitness on mild traumatic brain injury among service academy members at the United States Air Force Academy. Military Medicine.
 
 1.	**Van Pelt KL**, McCarty K, Davis R, Lykins J, Jicha G, Caban-Holt A, Lightner D, Robertson W, Brothers S, Thalman SW, Lin A, Powell D, Head E, Schmitt F. (In Preparation). Regional and Longitudinal Changes in Cerebral Blood Flow in Individuals with Down Syndrome.
 
@@ -78,6 +78,7 @@ tribble(
 
 ## Refereed Journal Publications
 Complete List of Published Work in My Bibliography: https://www.ncbi.nlm.nih.gov/myncbi/browse/collection/46831018/
+1.	**Van Pelt KL**, Wolff L, Campbell DE, McGinty G, Zupan M, Jackson JC. (Accepted, 2021). A preliminary exploration of the impact of aerobic and muscular fitness on mild traumatic brain injury among service academy members at the United States Air Force Academy. Military Medicine.
 
 1. Harp JP, Koehl LM, **Van Pelt KL**, Hom CL, Doran E, Head E, Lott IT, Schmitt FA. Cognitive and Behavioral Domains That Reliably Differentiate Normal Aging and Dementia in Down Syndrome. Brain Sci. 2021 Aug 25;11(9):1128. doi: 10.3390/brainsci11091128. PMID: 34573150; PMCID: PMC8468129.
 

@@ -71,15 +71,18 @@ tribble(
 
 ## In Preparation
 
-1.	**Van Pelt KL**, McCarty K, Davis R, Lykins J, Jicha G, Caban-Holt A, Lightner D, Robertson W, Brothers S, Thalman SW, Lin A, Powell D, Head E, Schmitt F. (In Preparation). Regional and Longitudinal Changes in Cerebral Blood Flow in Individuals with Down Syndrome.
+1.	Garcia GP, Czerniak LL, Lavieri MS, Liebel SW, **Van Pelt KL**, Pasquina PF, McAllister TW, McCrea MA, Broglio SP, CARE Consortium Investigators. Estimating the Relationship Between the Symptom-Free Waiting Period and Injury Rates after
+Return-to-Play from Concussion: A Simulation Analysis Using CARE Consortium Data
 
 
 ## Refereed Journal Publications
 Complete List of Published Work in My Bibliography: https://www.ncbi.nlm.nih.gov/myncbi/browse/collection/46831018/
 
-1.	DiProspero DN, Keator DB, Phelan M, van Erp TGM, Doran E, Powell DK, **Van Pelt KL**, Schmitt F, Head E, Lott IT, Yassa MA. (Accepted, 2021). Selective impairment of long-range default mode network functional connectivity as a biomarker for preclinical Alzheimer’s disease in older individuals with Down syndrome. Journal of Alzheimer’s Disease.
+1.	DiProspero ND, Keator DB, Phelan M, van Erp TGM, Doran E, Powell DK, **Van Pelt KL**, Schmitt FA, Head E, Lott IT, Yassa MA. Selective Impairment of Long-Range Default Mode Network Functional Connectivity as a Biomarker for Preclinical Alzheimer's Disease in People with Down Syndrome. J Alzheimers Dis. 2022;85(1):153-165. doi: 10.3233/JAD-210572. PubMed PMID: 34776436; PubMed Central PMCID: PMC9017677.
 
-1.	**Van Pelt KL**, Wolff L, Campbell DE, McGinty G, Zupan M, Jackson JC. (Accepted, 2021). A preliminary exploration of the impact of aerobic and muscular fitness on mild traumatic brain injury among service academy members at the United States Air Force Academy. Military Medicine.
+1.	**Van Pelt KL**, Wolff L, Campbell DE, McGinty G, Zupan M, Jackson JC. Investigation of Aerobic and Muscular Fitness and Concussion Among Service Academy Cadets at the United States Air Force Academy: Results from the CARE Consortium. Mil Med. 2021 Dec 30;. doi: 10.1093/milmed/usab440. [Epub ahead of print] PubMed PMID: 34966923.
+
+1. Wallace ER, Harp JP, **Van Pelt KL**, Koehl LM, Caban-Holt AM, Anderson-Mooney AJ, Jicha GA, Lightner DD, Robertson WC, Head E, Schmitt FA. Identifying dementia in Down syndrome with the Severe Impairment Battery, Brief Praxis Test and Dementia Scale for People with Learning Disabilities. J Intellect Disabil Res. 2021 Dec;65(12):1085-1096. doi: 10.1111/jir.12901. Epub 2021 Nov 16. PubMed PMID: 34786786; PubMed Central PMCID: PMC8842513.
 
 1. Harp JP, Koehl LM, **Van Pelt KL**, Hom CL, Doran E, Head E, Lott IT, Schmitt FA. Cognitive and Behavioral Domains That Reliably Differentiate Normal Aging and Dementia in Down Syndrome. Brain Sci. 2021 Aug 25;11(9):1128. doi: 10.3390/brainsci11091128. PMID: 34573150; PMCID: PMC8468129.
 
@@ -156,6 +159,11 @@ Complete List of Published Work in My Bibliography: https://www.ncbi.nlm.nih.gov
 
 
 ## Refereed Published Abstracts/Presentations
+1. Van Pelt DW, Garcia GP, Hinds SR, Howell DR, McCollum J, Svoboda SJ, **Van Pelt KL**. (October 2022). Daily Concussion Symptom Presence and Severity is Highly Variable in a Healthy Population Over a 14-day Monitoring Period. 6th International Consensus Conference on Concussion in Sport, Amsterdam, Netherlands.
+
+1. **Van Pelt KL**, Garcia GP, Hinds SR, Howell DR, McCollum J, Svoboda SJ, Van Pelt DW. (October 2022). Time of Day and Day of Week Do Not Meaningfully Impact Concussion Symptom Scores In Healthy Young Adults. 6th International Consensus Conference on Concussion in Sport. Amsterdam, Netherlands.
+
+1. Ali S, **Van Pelt KL**, Koehl LM, Caban-Holt AM, Anderson-Mooney AJ, Dennis B, Head E, Harp J, Glueck A, Powell D, Schmitt F. (October 2022) Correspondence between ABAS-II and VABS-II composite scales in a cohort of adults with Down Syndrome. National Academy of Neuropsychology. Denver, Colorado.
 
 1.	**Van Pelt KL**, Powell D, Head E, Schmitt F. (November 2020). Perivascular Space Volume and the Association with Age and Cognition in an Aging Down Syndrome Population. Annual Markesbery Symposium, Lexington, KY.
 

@@ -4,7 +4,7 @@ surname: Van Pelt
 position: "CEO | Consultant"
 address: "Synaptek | KVP Consulting"
 www: www.synaptek.io | www.kvanpelt.com
-email: "kate.vanpelt@synaptek.io | vanpelt.kathryn@gmail.com"
+email: "vanpelt.kathryn@gmail.com"
 twitter: oconnor_kl
 github: kvp1918
 date: "`r format(Sys.time(), '%B %Y')`"
@@ -71,8 +71,10 @@ tribble(
 
 ## In Preparation
 
-1.	Garcia GP, Czerniak LL, Lavieri MS, Liebel SW, **Van Pelt KL**, Pasquina PF, McAllister TW, McCrea MA, Broglio SP, CARE Consortium Investigators. Estimating the Relationship Between the Symptom-Free Waiting Period and Injury Rates after
-Return-to-Play from Concussion: A Simulation Analysis Using CARE Consortium Data
+1.	Garcia GP, Czerniak LL, Lavieri MS, Liebel SW, **Van Pelt KL**, Pasquina PF, McAllister TW, McCrea MA, Broglio SP, CARE Consortium Investigators. (Under Review). Estimating the Relationship Between the Symptom-Free Waiting Period and Injury Rates after
+Return-to-Play from Concussion: A Simulation Analysis Using CARE Consortium Data. Sports Medicine. 
+
+1. Liebel SW, **Van Pelt KL**, Pasquina PF, McAllister TW, McCrea MA, Broglio SP, CARE Consortium Investigators. Sport-specific recovery trajectories for NCAA collegiate athletes following concussion
 
 
 ## Refereed Journal Publications
@@ -335,6 +337,7 @@ Complete List of Published Work in My Bibliography: https://www.ncbi.nlm.nih.gov
 # Grants
 
 ## Previous
+1. Synaptek, **Van Pelt KL** Leveraging smartphone data to improve clinical decisions in concussion care. NSF SBIR. $216,269. 2021-2022.
 1.	**O’Connor, KL** & Broglio, SP. An investigation of the effect of eliminating body checking at the pewee level. University of Michigan, Rackham Pre-Candidate Award. $2,049. 2015-2016.
 1.	**O’Connor, KL** & Broglio SP. Chronic Effects of Concussion on Eye Tracking Measures of Executive Functioning. University of Michigan, Rackham Candidate Award. $3,365. 2017-2018.
 

@@ -1,9 +1,8 @@
 ---
-name: Kathryn L.
+name: Kathryn
 surname: Van Pelt
-position: "CEO | Consultant"
+position: "CEO | Data Scientist"
 address: "Synaptek | KVP Consulting"
-www: www.synaptek.io | www.kvanpelt.com
 email: "vanpelt.kathryn@gmail.com"
 twitter: oconnor_kl
 github: kvp1918
@@ -40,8 +39,8 @@ tribble(
 library(tibble)
 tribble(
   ~ Position, ~ Year, ~ Institution, ~ Where,
-  "CEO", "2021-Present", "Synaptek, LLC", "Lexington, KY, USA",
-  "", "2021-Present", "KVP Consulting", "Lexington, KY, USA",
+  "CEO & Co-Founder, Data Scientist", "2021-Present", "Synaptek, LLC", "Lexington, KY, USA",
+  "Data Scientist", "2021-Present", "KVP Consulting", "Lexington, KY, USA",
   "Post-Doctoral Fellow", "2018-2021", "University of Kentucky, Sanders-Brown Center on Aging", 
   "Lexington, KY, USA",
   "PhD Student and Graduate Research Assistant", "2014-2018", 

@@ -1,14 +1,16 @@
 ---
 name: Kathryn
 surname: Van Pelt
-position: "CEO | Data Scientist"
-address: "Synaptek | KVP Consulting"
+position: "Data Scientist"
+address: "Oak Street Health | KVP Consulting"
 email: "vanpelt.kathryn@gmail.com"
 twitter: oconnor_kl
 github: kvp1918
 date: "`r format(Sys.time(), '%B %Y')`"
 headcolor: 414141
-output: vitae::hyndman
+output: 
+  vitae::hyndman:
+    latex_engine: lualatex
 ---
 
 ```{r setup, include=FALSE}
@@ -39,7 +41,8 @@ tribble(
 library(tibble)
 tribble(
   ~ Position, ~ Year, ~ Institution, ~ Where,
-  "CEO & Co-Founder, Data Scientist", "2021-Present", "Synaptek, LLC", "Lexington, KY, USA",
+  "Data Scientist I", "2023-Present", "Oak Street Health", "Chicago, IL, USA",
+  "CEO & Co-Founder, Data Scientist", "2021-2023", "Synaptek, LLC", "Lexington, KY, USA",
   "Data Scientist", "2021-Present", "KVP Consulting", "Lexington, KY, USA",
   "Post-Doctoral Fellow", "2018-2021", "University of Kentucky, Sanders-Brown Center on Aging", 
   "Lexington, KY, USA",
@@ -70,14 +73,15 @@ tribble(
 
 ## In Preparation
 
-1.	Garcia GP, Czerniak LL, Lavieri MS, Liebel SW, **Van Pelt KL**, Pasquina PF, McAllister TW, McCrea MA, Broglio SP, CARE Consortium Investigators. (Under Review). Estimating the Relationship Between the Symptom-Free Waiting Period and Injury Rates after
-Return-to-Play from Concussion: A Simulation Analysis Using CARE Consortium Data. Sports Medicine. 
-
 1. Liebel SW, **Van Pelt KL**, Pasquina PF, McAllister TW, McCrea MA, Broglio SP, CARE Consortium Investigators. Sport-specific recovery trajectories for NCAA collegiate athletes following concussion
 
 
 ## Refereed Journal Publications
 Complete List of Published Work in My Bibliography: https://www.ncbi.nlm.nih.gov/myncbi/browse/collection/46831018/
+
+1.	Garcia GP, Czerniak LL, Lavieri MS, Liebel SW, **Van Pelt KL**, Pasquina PF, McAllister TW, McCrea MA, Broglio SP, CARE Consortium Investigators. (Under Review). Estimating the Relationship Between the Symptom-Free Waiting Period and Injury Rates After Return-to-Play from Concussion: A Simulation Analysis Using CARE Consortium Data. Sports Medicine. 2023; Online ahead of print. doi: 10.1007/s40279-023-01901-5
+
+1. Stern AM, **Van Pelt KL**, Liu L, Anderson AK, Ostaszewski B, Mapstone M, O'Bryant S, Petersen ME, Christian BT, Handen BL, Selkoe DJ, Schmitt F, Head E. Plasma NT1-tau and Aβ(42) correlate with age and cognitive function in two large Down syndrome cohorts. Alzheimers Dement. 2023 Jul 12;. doi: 10.1002/alz.13382. PubMed PMID: 37438872.
 
 1.	DiProspero ND, Keator DB, Phelan M, van Erp TGM, Doran E, Powell DK, **Van Pelt KL**, Schmitt FA, Head E, Lott IT, Yassa MA. Selective Impairment of Long-Range Default Mode Network Functional Connectivity as a Biomarker for Preclinical Alzheimer's Disease in People with Down Syndrome. J Alzheimers Dis. 2022;85(1):153-165. doi: 10.3233/JAD-210572. PubMed PMID: 34776436; PubMed Central PMCID: PMC9017677.
 
